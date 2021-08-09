@@ -6,4 +6,4 @@
 
 `git clone https://github.com/m-shariatzadeh/Customized-Card.git`
 
-<img src="images/card.PNG">
+<img src="images/card.PNG"> 
