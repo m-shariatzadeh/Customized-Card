@@ -1,3 +1,3 @@
-## Customized Card 
+# Customized Card 
 
-<img src="images/README.md">
+<img src="images/card.PNG">
