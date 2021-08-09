@@ -1,0 +1,43 @@
+@import 'fonts/font.css';
+
+html,body{
+	padding: 0;
+	margin: 0;
+	background-color: #9933ff;
+	font-family: IRANSANS;
+	font-size: 12px;
+}
+
+.card{
+	position: relative;
+	width: 400px;
+	height: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	box-shadow: 0 8px 8px 0 black;
+	border-radius: 10px;
+	background: linear-gradient(167deg, rgba(30,244,0,1) 0%, rgba(255,255,255,1) 50%, rgba(238,17,17,1) 100%);
+}
+
+.card-avatar{
+	position: absolute;
+	top: 18%;
+	left: 30px;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+}
+
+.card-avatar img{
+	height: 80px;
+}
+
+.card-profile{
+	position: absolute;
+	top: 18%;
+	right: 30px;
+	width: 250px;
+	height: 150px;
+	text-align: right;
+}
